@@ -1,0 +1,10 @@
+<!--pages/index/index.wxml-->
+<view>
+  <text>{{textclickone}}</text>
+</view>
+<view>
+  <text>{{textclicktwo}}</text>
+</view>
+
+<button type='primary' plain='true' bindtap="clickme1"> 点我1 </button>
+<button type='primary' plain='true' bindtap="clickme2"> 点我2 </button>

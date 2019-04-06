@@ -1,0 +1,3 @@
+/* pages/index/index.wxss */
+button {margin: 10px;}
+text {margin: 10px;}
