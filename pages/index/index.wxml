@@ -1,0 +1,7 @@
+<!--pages/index/index.wxml-->
+
+<text>是/否：{{isChecked}}</text>
+
+<checkbox-group  bindchange="isCheck">
+    <checkbox  value="是"  />
+</checkbox-group>

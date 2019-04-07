@@ -1,0 +1,7 @@
+/* pages/index/index.wxss */
+checkbox-group{
+  margin: 20rpx;
+}
+text{
+  margin: 20rpx;
+}
